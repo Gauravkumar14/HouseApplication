@@ -1,0 +1,13 @@
+.navbar .nav-link {
+    color: white!important;
+  }
+
+.slideshow{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin: 20px auto;
+    width: 1000px;
+    height: 500px;
+    border-radius: 5%;
+}
